@@ -18,4 +18,8 @@ I was able to create the public key and log on without typing my passoword but I
 
 ## Part 3
 
-Something that I learned and thought was really cool was creating a web server! I know that I used git clone for the assignment but I thought it was really interesting to make something that I never was able to do. Also learning about paths and directories is pretty interesting. A lot of things are actually happening when I'm using the computer but I just never knew about it until now. I have ussed ssh before but I think it's interesting because I usually logged on using a password and now I don't have to! :D
+Something that I learned and thought was really cool was creating a web server! \
+I know that I used git clone for the assignment but I thought it was really interesting to make something that I never was able to do. \
+Also learning about paths and directories is pretty interesting. \
+A lot of things are actually happening when I'm using the computer but I just never knew about it until now. \
+I have ussed ssh before but I think it's interesting because I usually logged on using a password and now I don't have to! :D
